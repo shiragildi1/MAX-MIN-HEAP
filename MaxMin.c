@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <string.h>
-/*shira giladi and pessy*/
+/*shira giladi*/
 /*print the heap*/
 void print_heap(int * heap);
 /*Finding the depth of the tree*/
